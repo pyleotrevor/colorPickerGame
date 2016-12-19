@@ -1,5 +1,5 @@
 
-//something with the var below is fucked.
+
 var numberOfSquares = 6;
 var colors = assignRandomColors(numberOfSquares);
 var h1 = document.querySelector('h1')
